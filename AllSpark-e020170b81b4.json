@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "allspark-250416",
+  "private_key_id": "e020170b81b4cec45254789e04f8d1dac355598e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC28+lV0cgDptVb\n1YlNvK49swLCu9SWgtm/h2qRpKzpV6/bIxwFrQTix/mO6ttbY6HduecO0nHdxzmB\njYvAl5KlaI0MbfeHuTNf5L2KjUDJiGyf0NpqfWGxGcnqcu0ycgAtQHECLC3Wux54\nxNipDX3yZE8LyYcYL2fORiGpFF4DWriHW0Ol6eC+0TNXaMtJ5JG9nfnOC50GsoMm\nwcsEDKcxuSbCodaZkIUDZWZiBH+LSqbQ3JZLwB1QBgpLjaIgnU3ApS2kXMEH7btP\nTjWNLoPZgiUlXpsK5RTozIuogjuKq0p9a0BOiJkH5+SuPXZ0RfHh+Msgoz8xh2NX\nHkA7ZoKPAgMBAAECggEAB3laGZzDBGMsaYlaXUf4APfvL5q8yelOkU8sQLGZiW7W\nSv2EMjcp8UR6ItHgDuZjFnZ3GgPpjZs184pKIJ67PvFRJyYsQT8vpMXozbWM5Vl4\nFo9RskgCVa8tWzFBahjTflsY7XMglu/OBDZbzjbe46ggEpCJFFPbdHHTrjScIpw1\nl9SPbRsidd3jeM+oLehcjp+OEsLmzaLLRUo+2Pr3DVCORNqQ4oPgmWKtJ8VgHKIj\nKsqEyfkkcHrSDGzyTK+w6mSibh8STemobV2Jl5axFlAcMhjL1zmvG59deDXLVTUB\nmyY3jL2kvGdEhLPbq/MoFM00QB/NFUqE7MUxkEx7AQKBgQD+yyGficvLUGvm24Rq\nFvGvG9HqULSHaM1zUC4YLJF6z28fuMA40uL0Gk6FlZNuoGjdEEUU50mvGilSr5aU\nw4A6Tp3oKdDxFBMzZOk64uejF9lm7INB4BkIrsyr1x8gG2ef/iwEEQozFOLQhq2K\ncqJe/eHPMihYTNdaAbgkhQZg/QKBgQC30bFMPMPcuts5/qcW+kqeI7Lg3JwI0P43\n3K3SJptMOs4E/dFCQymy1GC09obAJtebo77QAbpoMNVWBiICwOAcK6IX1CfRxVLJ\nB2bdG3X8Eh5N0eClJjBqD9GeVCKDbztdemtYAVTzRHxSPrq5B1xNy53EmfMCdEeJ\nqBCYIKJdewKBgCMxM2exxLBEX2L3lwaAPMmO8iOHGihJ1XbD8FnubfmkhRjAj+xJ\nVIeaypWw3zg8d79w69nDSG4jEuoUzpullSR4j17tx6pEt5I1sfEsPgpM1P5eVJLY\nvRxx6Fsjz2zD3EBA/xtgryP3EozyzS1+P+cW8gWITAJGOsh3zFNe/E6RAoGACkm+\nNpogDDaZFoHeMDcJ/hfZZyRxxzyLPe0n/V8Tygxwg28BS0gfCVdBol85439JCfj8\nMQAnwrUY+5uUQ7svz+PRSqwhHmiA3aeAZlenHtiUwZ5BiHy+sPD5tnbXB6wuEmlL\noL1SV9s5ahEAumJjFCeVSO+k3jpL1rSFWT5aWAkCgYBLoq4hzOUNOieuHzOJGDJF\nVjHoCC2NHwtYGgBwD5UByjlqTP9tQlhqYxlZ+nduxpsCnC6UkYyVvjPOVW36G5eI\nIN2ich/nuVDrBkEKLK4zwi02BMII1agoWxr/8x0rHNGguFjSh71oj8xpVSjmVqEr\nPRi1rJZLPYmaunUodRfA6g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "allsparkcred@allspark-250416.iam.gserviceaccount.com",
+  "client_id": "111217705083550935606",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/allsparkcred%40allspark-250416.iam.gserviceaccount.com"
+}
